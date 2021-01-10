@@ -1,0 +1,20 @@
+PODS:
+  - PagingKit (1.15.0)
+  - SwiftLint (0.42.0)
+
+DEPENDENCIES:
+  - PagingKit
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - PagingKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  PagingKit: 4bd58b65d71a82ab98486b6927e870c7fbc6c6eb
+  SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
+
+PODFILE CHECKSUM: a66fabf880b5a59ed5b1dbd20dc4e3e607388466
+
+COCOAPODS: 1.10.1
